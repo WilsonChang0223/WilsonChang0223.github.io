@@ -1,4 +1,4 @@
-## This is my [CV](files/cv.pdf)
+## [CV](files/cv.pdf)
 
 ---
 
