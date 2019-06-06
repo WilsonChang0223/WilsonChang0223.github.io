@@ -19,7 +19,7 @@
 ## Publications
 
 ---
-* <u>Wei-Lun Chang</u>*, Hui-Po Wang* Wen-Hsiao Peng, Wen-Chen Chiu. [All about Structure:Adapting Structural Information across Domains for Boosting Semantic Segmentation](https://arxiv.org/abs/1903.12212). In International Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [[Code]](https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction) [[Project Page]](https://a514514772.github.io/DISE-Domain-Invariant-Structure-Extraction/)
+* <u>Wei-Lun Chang</u>>&#x2A;, Hui-Po Wang>&#x2A;, Wen-Hsiao Peng, Wen-Chen Chiu. [All about Structure:Adapting Structural Information across Domains for Boosting Semantic Segmentation](https://arxiv.org/abs/1903.12212). In International Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [[Code]](https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction) [[Project Page]](https://a514514772.github.io/DISE-Domain-Invariant-Structure-Extraction/)
 ![](images/teaser_figure.png)
 
 ---
