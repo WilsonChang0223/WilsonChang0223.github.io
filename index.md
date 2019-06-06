@@ -1,5 +1,3 @@
-## [CV](files/cv.pdf)
-
 ## Education
 
 ---
