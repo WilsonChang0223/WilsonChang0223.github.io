@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   I'm a master student at <a href="https://www.nctu.edu.tw/">National Chiao-Tung University</a>
   <br>
   Email: luckchang6@gmail.com
-  <br>
-  ![CV](files/cv.pdf) 
+  <br> 
+  <CV src="files/cv.pdf?raw=False"/>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
