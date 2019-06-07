@@ -1,6 +1,4 @@
 ---
-I joined <a href="https://walonchiu.github.io">Enriched Vision Application Lab</a> in 2017. I am a Master student advised by <a href="https://walonchiu.github.io">Prof. Wei-Chen Chiu</a> and <a href="http://vlab.ee.nctu.edu.tw/advisor/">Prof. Sheng-Jyh Wang</a>. My research interest is computer vision and machine learning. Especially, I focus on domain adaptation, image style transfer, and semi-supervised learning. Currently, I am working on domain adaptation with  <a href="https://walonchiu.github.io">Prof. Wei-Chen Chiu</a> and <a href="https://sites.google.com/g2.nctu.edu.tw/wpeng/cv">Prof. Wen-Hsiao Peng</a>
-
 
 ## Education
 
