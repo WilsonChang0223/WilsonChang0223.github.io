@@ -34,8 +34,8 @@ I am an engineer in Qualcomm Technologies Inc., working on 3D reconstruction. Su
 
 ---
 * <u>Wei-Lun Chang</u>&#x2A;, Hui-Po Wang&#x2A;, Wen-Hsiao Peng, Wen-Chen Chiu. [All about Structure:Adapting Structural Information across Domains for Boosting Semantic Segmentation](https://arxiv.org/abs/1903.12212). In International Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [[Code]](https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction) [[Project Page]](https://a514514772.github.io/DISE-Domain-Invariant-Structure-Extraction/)
-![](images/teaser_figure.png)
 * <u>Wei-Lun Chang</u>&#x2A;, Hui-Po Wang&#x2A;, Wen-Hsiao Peng, Wen-Chen Chiu. Disentangling domain-invariant structural information for im-proving semantic segmentation. In The Conference on Computer Vi-sion, Graphics, and Image Processing (CVGIP), 2019.
+![](images/teaser_figure.png)
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
