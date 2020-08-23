@@ -6,7 +6,6 @@ I am an engineer in Qualcomm Technologies Inc., working on 3D reconstruction. Su
 * Generative model
 * 2D scene understanding
 * 3D scene understanding & reconstruction
----
 
 ## Education
 
