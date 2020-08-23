@@ -21,13 +21,13 @@ I am an engineer in Qualcomm Technologies Inc., working on 3D reconstruction. Su
 ## Experiences
 
 ---
-* Engineer            , Qualcomm Technologies Inc., Hsinchu, Summer 2020
+* Engineer, <a href="https://www.qualcomm.com/">Qualcomm Technologies Inc.</a>, Hsinchu, Summer 2020
 * Private (Compulsory), R.O.C. Army, Taipei, Spring 2020
-* Engineer            , Qualcomm Technologies Inc., Hsinchu, Winter 2019
-* Teaching Assistant  , Computer Vision, NCTU, Spring 2019
-* Internship          , Industrial Technology Research Institute - Hsinchu, Taiwan, Jul. 2017 - Aug. 2017
-* Internship          , YoungOptics Inc - Hsinchu, Taiwan, Jul. 2016 - Aug. 2016
-* Teaching Assistant  , Electronics Laboratories, NCTU, Fall 2015, Fall 2016
+* Engineer, <a href="https://www.qualcomm.com/">Qualcomm Technologies Inc.</a>, Hsinchu, Winter 2019
+* Teaching Assistant, Computer Vision, NCTU, Spring 2019
+* Internship,<a href="https://ictjournal.itri.org.tw/">Industrial Technology Research Institute</a> - Hsinchu, Taiwan, Jul. 2017 - Aug. 2017
+* Internship, <a href="https://www.youngoptics.com/en">YoungOptics Inc</a> - Hsinchu, Taiwan, Jul. 2016 - Aug. 2016
+* Teaching Assistant, <a href="http://www.alab.ee.nctu.edu.tw/wpmu/elab/">Electronics Laboratories</a>, NCTU, Fall 2015, Fall 2016
 
 ## Publications
 
