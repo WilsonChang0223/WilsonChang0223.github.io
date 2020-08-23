@@ -1,4 +1,12 @@
-I am an engineer in Qualcomm Technologies Inc., working on 3D reconstruction. Supervised by Prof.<a href="https://walonchiu.github.io"> Wei-Chen Chiu</a> and Prof. <a href="http://vlab.ee.nctu.edu.tw/advisor/">Sheng-Jyh Wang</a>, I received my M.S. from <a href="https://www.nctu.edu.tw/en">Nation Chiao Tung University </a> in 2019. My research interest is computer vision, generative model, 2D scene understanding, and 3D scene understanding & reconstruction
+I am an engineer in Qualcomm Technologies Inc., working on 3D reconstruction. Supervised by Prof.<a href="https://walonchiu.github.io"> Wei-Chen Chiu</a> and Prof. <a href="http://vlab.ee.nctu.edu.tw/advisor/">Sheng-Jyh Wang</a>, I received my M.S. from <a href="https://www.nctu.edu.tw/en">Nation Chiao Tung University </a> in 2019. My research interest is computer vision, generative model, 2D scene understanding, and 3D scene understanding & reconstruction. One of my research result has been published on CVPR2019.
+
+## Research Interest
+---
+* Computer vision
+* Generative model
+* 2D scene understanding
+* 3D scene understanding & reconstruction
+---
 
 ## Education
 
@@ -13,17 +21,21 @@ I am an engineer in Qualcomm Technologies Inc., working on 3D reconstruction. Su
 ## Experiences
 
 ---
+* Engineer, Qualcomm Technologies Inc., Hsinchu, Summer 2020
+* Private (Compulsory),R.O.C. Army, Taipei, Spring 2020
+* Engineer, Qualcomm Technologies Inc., Hsinchu, Winter 2019
 * Teaching Assistant, Computer Vision, NCTU, Spring 2019
 * Internship, Industrial Technology Research Institute - Hsinchu, Taiwan, Jul. 2017 - Aug. 2017
 * Internship, YoungOptics Inc - Hsinchu, Taiwan, Jul. 2016 - Aug. 2016
 * Teaching Assistant, Electronics Laboratories, NCTU, Fall 2015, Fall 2016
+---
 
 ## Publications
 
 ---
 * <u>Wei-Lun Chang</u>&#x2A;, Hui-Po Wang&#x2A;, Wen-Hsiao Peng, Wen-Chen Chiu. [All about Structure:Adapting Structural Information across Domains for Boosting Semantic Segmentation](https://arxiv.org/abs/1903.12212). In International Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [[Code]](https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction) [[Project Page]](https://a514514772.github.io/DISE-Domain-Invariant-Structure-Extraction/)
 ![](images/teaser_figure.png)
-
+* <u>Wei-Lun Chang</u>&#x2A;, Hui-Po Wang&#x2A;, Wen-Hsiao Peng, Wen-Chen Chiu. Disentangling domain-invariant structural information for im-proving semantic segmentation. In The Conference on Computer Vi-sion, Graphics, and Image Processing (CVGIP), 2019.
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
