@@ -6,7 +6,7 @@ I am an engineer in Qualcomm Technologies Inc., working on 3D reconstruction. Su
 * Generative model
 * 2D scene understanding
 * 3D scene understanding & reconstruction
----
+
 
 ## Education
 
@@ -28,7 +28,6 @@ I am an engineer in Qualcomm Technologies Inc., working on 3D reconstruction. Su
 * Internship, Industrial Technology Research Institute - Hsinchu, Taiwan, Jul. 2017 - Aug. 2017
 * Internship, YoungOptics Inc - Hsinchu, Taiwan, Jul. 2016 - Aug. 2016
 * Teaching Assistant, Electronics Laboratories, NCTU, Fall 2015, Fall 2016
----
 
 ## Publications
 
