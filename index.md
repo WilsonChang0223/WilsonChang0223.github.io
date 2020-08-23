@@ -2,7 +2,7 @@ I am an engineer in Qualcomm Technologies Inc., working on 3D reconstruction. Su
 
 ## Research Interest
 ---
-I am interested in the area ofcomputer visionandmachine learningincluding but not limited to
+I am interested in the area of computer visionandmachine learningincluding but not limited to
 * Metric learning
 * Generative models
 * 2D scene understanding
