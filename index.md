@@ -21,6 +21,7 @@ I am an engineer in Qualcomm Technologies Inc., working on 3D reconstruction. Su
 ## Experiences
 
 ---
+<img align="absmiddle" src="images/nctu.png" height="30" width="30"/>
 * Engineer, Qualcomm Technologies Inc., Hsinchu, Summer 2020
 * Private (Compulsory),R.O.C. Army, Taipei, Spring 2020
 * Engineer, Qualcomm Technologies Inc., Hsinchu, Winter 2019
