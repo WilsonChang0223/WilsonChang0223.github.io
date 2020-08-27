@@ -5,8 +5,8 @@ I am an engineer in Qualcomm Technologies Inc., working on 3D reconstruction. Su
 I am interested in the area of computer vision and machine learning including but not limited to
 * Metric learning
 * Generative models
-* 2D scene understanding
-* 3D scene understanding & reconstruction
+* Scene understanding
+* 3D reconstruction
 
 
 ## Education
