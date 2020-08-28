@@ -1,4 +1,4 @@
-I am an engineer in Qualcomm Technologies Inc., working on 3D reconstruction. In 2019, I received my M.S. from <a href="https://www.nctu.edu.tw/en">Nation Chiao Tung University</a>, under supervision of Prof.<a href="https://walonchiu.github.io"> Wei-Chen Chiu</a> and Prof. <a href="http://vlab.ee.nctu.edu.tw/advisor/">Sheng-Jyh Wang</a>. My research interest is computer vision and machine learning. One of my research results has been published on CVPR2019.
+I'm now an engineer at Qualcomm Technologies Inc., working on 3D reconstruction. In 2019, I received my M.S. from <a href="https://www.nctu.edu.tw/en">Nation Chiao Tung University</a>, under supervision of Prof.<a href="https://walonchiu.github.io"> Wei-Chen Chiu</a> and Prof. <a href="http://vlab.ee.nctu.edu.tw/advisor/">Sheng-Jyh Wang</a>. My research interest is computer vision and machine learning. One of my research results has been published on CVPR2019.
 
 ## Research Interest
 ---
